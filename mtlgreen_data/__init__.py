@@ -1,0 +1,1 @@
+from . import globalshapers_scraper, impak_scraper, simplyk_scraper
